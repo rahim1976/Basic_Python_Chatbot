@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi, How Are you?"
+    },
+    {
+      "question": "I am Fine",
+      "answer": "I am also good, Please let me know if you need any assitance!"
+    },
+    {
+      "question": "who created you?",
+      "answer": "I am developed by Rahim Ali using Python, Difflib & Streamlit"
+    },
+    {
+      "question": "Who is rahim ali?",
+      "answer": "Rahim is a Front-End Developer based in pakistan"
+    },
+    {
+      "question": "what is the specification of my pc?",
+      "answer": "I Remember it was a Ryzen 7 7700x, 32Gigs of DDR5 Rams, MSI X670 Mobo, Paired with a Gigabyte RTX 4070ti."
+    }
+  ]
+}
