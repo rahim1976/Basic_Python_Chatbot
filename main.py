@@ -5,7 +5,7 @@ import os
 
 # Page Configuration
 st.set_page_config(
-    page_title="AI Chatbot",
+    page_title="AskMate",
     page_icon="🤖",
     layout="wide"
 )
